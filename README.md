@@ -3,6 +3,10 @@
 - My [personal blog](https://developer20.com/)
 - Twitter account: [kabanek](https://twitter.com/kabanek)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Experience:
 ### Go developer at [G2A](https://www.g2a.com/)
 (August 2020 - currently)
