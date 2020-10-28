@@ -5,11 +5,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is my interface too big?](https://developer20.com/is-my-interface-too-big/)
+- [Posts](https://developer20.com/post/)
 - [Deep Work: Rules for Focused Success in a Distracted World](https://developer20.com/reviews/deep-work/)
 - [Go with some context](https://developer20.com/go-context/)
-- [Posts](https://developer20.com/post/)
 - [Reviews](https://developer20.com/reviews/)
-- [Never Split the Difference: Negotiating As If Your Life Depended On It](https://developer20.com/reviews/never-split-the-difference/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Experience:
