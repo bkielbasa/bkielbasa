@@ -5,11 +5,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Extracting the business logic - the project](https://developer20.com/extracting-the-business-logic-project/)
 - [Posts](https://developer20.com/post/)
 - [Refactoring for better testability](https://developer20.com/refactoring-for-better-testability/)
 - [Is my interface too big?](https://developer20.com/is-my-interface-too-big/)
 - [Deep Work: Rules for Focused Success in a Distracted World](https://developer20.com/reviews/deep-work/)
-- [Go with some context](https://developer20.com/go-context/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Experience:
