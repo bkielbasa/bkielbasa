@@ -5,11 +5,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing custom linter in Go](https://developer20.com/custom-go-linter/)
 - [Go Programming Language - book review](https://developer20.com/reviews/go-programming-language/)
 - [Extracting the business logic - the project](https://developer20.com/extracting-the-business-logic-project/)
 - [Refactoring for better testability](https://developer20.com/refactoring-for-better-testability/)
 - [Is my interface too big?](https://developer20.com/is-my-interface-too-big/)
-- [Deep Work: Rules for Focused Success in a Distracted World](https://developer20.com/reviews/deep-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Experience:
