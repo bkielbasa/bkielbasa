@@ -58,3 +58,8 @@ I'm a huge fan of opensource so I have my own projects that support the communit
  * [GoBDD](https://go-bdd.github.io/gobdd/) - BDD framework for Go. It’s goal is to give as simple and powerful BDD framework for Go.
  * [Cyclop](https://github.com/bkielbasa/cyclop) - It’s a tool which analize Go code and caluclates its cyclomatic complexity
  * [GoCracow](https://www.meetup.com/GoCracow/) and [Golang Poland](https://www.meetup.com/Golang-Poland/) - Local meetup focused on Go. I lead the community as well as give talks.
+
+## Hobby
+
+ * I like playing [Dota2](https://www.dota2.com/home) and chess
+ * I learn to play ukulele (but I'm just a beginner)
