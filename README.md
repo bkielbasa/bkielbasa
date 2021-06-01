@@ -16,7 +16,7 @@
 ### Go developer at [G2A](https://www.g2a.com/)
 (July 2020 - June 2021)
 
-I'm building the logistic part of the platform. I build Go (micro)services that support purchasing a physical product as well as integrating with external services. One of my challenges was understanding the domain correctly to be able to rewrite the monolith (Magento) application. I had to make sure that, at the first phase, the behavior doesn't change but the new implementation is open to new features and improvements. I modeled the part of the domain I was responsible.
+I'm building the logistic part of the platform. I build Go (micro)services that support purchasing a physical product as well as integrating with external services. One of my challenges was understanding the domain correctly to be able to rewrite the monolith (Magento) application. I had to make sure that, at the first phase, the behavior doesn't change but the new implementation is open to new features and improvements. I modeled the part of the domain I was responsible for.
 
 What's more, I was a member of a team that introduced [OpenTelemetry](https://opentelemetry.io/) in the company. I prepared a Go library helped developers to migrate to the [new solution](https://www.elastic.co/guide/en/apm/get-started/current/open-telemetry-elastic.html).
 
