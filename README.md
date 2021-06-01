@@ -3,7 +3,7 @@
 - My [personal blog](https://developer20.com/)
 - Twitter account: [kabanek](https://twitter.com/kabanek)
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Periodically restarting apps on Kubernetes](https://developer20.com/periodically-restarting-apps-on-k8s/)
 - [Writing custom linter in Go](https://developer20.com/custom-go-linter/)
