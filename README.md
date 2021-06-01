@@ -1,4 +1,7 @@
-## Hi there 👋
+| Bartłomiej Klimczak | [contact@developer20.com](mailto:contact@developer20.com)                                                                               |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Technologies        | Go, Kubernetes, Docker, AWS, MySQL, PostgresSQL, Kafka                                                                                  |
+| Distinctions        | [Google Developer Expert in Go category](https://developers.google.com/community/experts/directory/profile/profile-bartlomiej-klimczak) |
 
 - My [personal blog](https://developer20.com/)
 - Twitter account: [kabanek](https://twitter.com/kabanek)
