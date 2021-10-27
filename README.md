@@ -8,11 +8,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to structure Go code?](https://developer20.com/how-to-structure-go-code/)
 - [HTTP context livetime](https://developer20.com/http-connection-livetime/)
 - [Wrapping commands in Go](https://developer20.com/wrapping-commands-with-go/)
 - [Periodically restarting apps on Kubernetes](https://developer20.com/periodically-restarting-apps-on-k8s/)
 - [Writing custom linter in Go](https://developer20.com/custom-go-linter/)
-- [Go Programming Language - book review](https://developer20.com/reviews/go-programming-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Experience
