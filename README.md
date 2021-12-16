@@ -8,11 +8,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top level logging](https://developer20.com/top-level-logging/)
 - [`replace` directive in go modules](https://developer20.com/go-mod-replace/)
 - [gRPC with SSL/TLS](https://developer20.com/grpc-ssl/)
 - [How to structure Go code?](https://developer20.com/how-to-structure-go-code/)
 - [HTTP context livetime](https://developer20.com/http-connection-livetime/)
-- [Wrapping commands in Go](https://developer20.com/wrapping-commands-with-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Experience
